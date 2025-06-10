@@ -47,7 +47,7 @@ The lab simulates a real-world scenario where an attacker identifies an exploita
   ├── msf.png
   ├── shell.png
   └── post_exploit.png
-  
+/
   
 ---
 
