@@ -36,7 +36,7 @@ The lab simulates a real-world scenario where an attacker identifies an exploita
 - Confirm connectivity by pinging the target machine.
 
 ---
-
+'''
 ## 📂 Repository Structure
 
 /
@@ -48,7 +48,7 @@ The lab simulates a real-world scenario where an attacker identifies an exploita
   ├── shell.png
   └── post_exploit.png
 /
-  
+'''
 ---
 
 ## 📖 How to Use This Repo
