@@ -40,20 +40,21 @@ The lab simulates a real-world scenario where an attacker identifies an exploita
 ## 📂 Repository Structure
 
 
- ```
-markdown
-```
-```
- ├── [README.md](README.md)  # This overview file
- ├── [LAB_GUIDE.md](LAB_GUIDE.md) # Detailed step-by-step lab walkthrough
- └── images/      # Folder containing screenshots
-     ├── [nmap.png](images/nmap.png)
-     ├── [msf.png](images/msf.png)
-     ├── [shell.png](images/shell.png)
-     └── [post_exploit.png](images/post_exploit.png)
-```
-```
 
+
+ 
+
+   
+
+    ├── [README.md](README.md)  # This overview file
+    ├── [LAB_GUIDE.md](LAB_GUIDE.md) # Detailed step-by-step lab walkthrough
+    └── images/      # Folder containing screenshots
+        ├── [nmap.png](images/nmap.png)
+        ├── [msf.png](images/msf.png)
+        ├── [shell.png](images/shell.png)
+        └── [post_exploit.png](images/post_exploit.png
+
+  
 
 ---
 
