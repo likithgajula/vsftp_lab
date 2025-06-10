@@ -39,7 +39,7 @@ The lab simulates a real-world scenario where an attacker identifies an exploita
 '''
 ## 📂 Repository Structure
 
-/
+
 ├── README.md # This overview file
 ├── LAB_GUIDE.md # Detailed step-by-step lab walkthrough
 └── images/ # Folder containing screenshots
@@ -47,8 +47,8 @@ The lab simulates a real-world scenario where an attacker identifies an exploita
   ├── msf.png
   ├── shell.png
   └── post_exploit.png
-/
-'''
+
+
 ---
 
 ## 📖 How to Use This Repo
